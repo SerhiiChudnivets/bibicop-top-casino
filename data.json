@@ -59,9 +59,15 @@
   "text_color": null,
   "color_highlight_text": null,
   "color_main_btn_text": null,
-  "logo": "/uploads/de91f7bdebc7c865b541e1a108b3a7e6.png",
-  "popup_logo": "/uploads/26654a7ecedccefe47bafe76cd218174.png",
-  "main_background_img": "/uploads/038007b169bc7b3c7ffc6205d3f59806.png",
+  "logo": {
+    "url": "/uploads/de91f7bdebc7c865b541e1a108b3a7e6.png"
+  },
+  "popup_logo": {
+    "url": "/uploads/26654a7ecedccefe47bafe76cd218174.png"
+  },
+  "main_background_img": {
+    "url": "/uploads/038007b169bc7b3c7ffc6205d3f59806.png"
+  },
   "header_menu": [
     {
       "link": "/huy",
@@ -93,8 +99,8 @@
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-04-21T21:38:24.522Z",
+  "_generated_at": "2026-04-21T21:44:44.030Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-21T21:38:25.149Z",
-  "_deploy_trigger": "547e4d"
+  "_last_deploy": "2026-04-21T21:44:44.669Z",
+  "_deploy_trigger": "c511b"
 }
