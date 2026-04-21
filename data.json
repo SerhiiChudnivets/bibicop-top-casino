@@ -62,13 +62,39 @@
   "logo": null,
   "popup_logo": null,
   "main_background_img": null,
-  "header_menu": null,
-  "footer_menu": null,
+  "header_menu": [
+    {
+      "link": "/huy",
+      "label": "Хуй",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/jopa",
+      "label": "Жопа",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/jopa",
+      "label": "jopa",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/hui",
+      "label": "hui",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
   "Slots": null,
   "Bonuses": null,
   "FAQ": null,
-  "_generated_at": "2026-04-21T21:09:38.337Z",
+  "_generated_at": "2026-04-21T21:18:58.558Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-21T21:12:12.576Z",
-  "_deploy_trigger": "zg942u"
+  "_last_deploy": "2026-04-21T21:18:59.135Z",
+  "_deploy_trigger": "vk4vjd"
 }
